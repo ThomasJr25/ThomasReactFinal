@@ -1,0 +1,24 @@
+.contents{
+	overflow-y: scroll;
+	  width: 100%;
+  height: 100%;
+
+}
+.contents::-webkit-scrollbar { 
+  /* This is the magic bit */
+  display: none;
+}
+
+.navbar-inner{
+	background-color: #48cfae;
+	color: white;
+
+}
+
+.item-title{
+	color: #48cfae;
+}
+
+.center{
+	color: white;
+}
